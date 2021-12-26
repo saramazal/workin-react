@@ -6,8 +6,8 @@ function Hello(props) {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <h1> Happy Hacking, {props.name} & {props.lname}!</h1>
-          <h4>Coded by <a href="https://github.com/saramazal" target="_blank">Sara Mazal</a> &copy; 2021</h4>
-              </header>
+          <h4>Coded by <a href="https://github.com/saramazal" target="_blank" rel="noreferrer">Sara Mazal</a> &copy; 2021</h4>
+          </header>
       </div>
     );
   }

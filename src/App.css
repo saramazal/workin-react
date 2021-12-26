@@ -41,6 +41,7 @@
 button  {
   padding: 7px 22px;
   font-family: "Josefin Sans", sans-serif;
+  transition: transform 0.7s ease;
 }
 button:hover {
   background-color: #FF0266 ;
@@ -48,4 +49,8 @@ button:hover {
   font-family: "Josefin Sans", sans-serif;
   border: none;
   color: #fff;
+  border-radius: 3px;
+  transform: scale(1.2);
+  cursor: pointer;
+
 }
