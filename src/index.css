@@ -1,0 +1,28 @@
+body {
+  background-color: #1e1f26;
+  color: #faebd7;
+}
+
+body {background-color:#000;}
+
+#timedate {
+  font: small-caps lighter 43px/150% "Ubuntu", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+  text-align:left;
+  width: 50%;
+  margin: 50px auto;
+  color:#00ffff;
+  border-left: 2px dotted #00ffff;
+  padding: 30px;
+}
+h1 {
+font-size: 1em;
+}
+h4 {
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 200;
+  font-size: 0.7em;
+}
+a {
+  color: #faebd7;
+  text-decoration: none;
+}
